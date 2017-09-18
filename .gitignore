@@ -1,0 +1,6 @@
+#Cache files
+metastore_db/
+.ipynb_checkpoints/
+
+#Log files
+*.log
